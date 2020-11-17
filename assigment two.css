@@ -1,0 +1,40 @@
+img{
+    border-radius: 50%;
+}
+
+.img-div{
+    text-align: center;
+    background-color: rgb(247, 240, 240);
+    border: 1px solid rgb(247, 240, 240);  
+   border-radius: 20px;
+}
+
+.text-center{
+    text-align:center;
+    
+}
+i{
+color:white;
+padding-left: 15px;
+}
+
+.social-div{
+    background-color: black;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.social-text-header{
+    color:white;
+}
+.facebook-padding{
+    margin-right: 5px;
+}
+.float-right{
+    float:right;
+    margin-top: 15px;
+}
+.table-padding{
+    padding-left: 200px;
+}
+
